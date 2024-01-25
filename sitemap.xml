@@ -9,7 +9,13 @@
 
 <url>
   <loc>https://danielhayter.com/</loc>
-  <lastmod>2022-12-01T01:05:41+00:00</lastmod>
+  <lastmod>2024-01-18T17:42:37+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://danielhayter.com/pressinterviews.html</loc>
+  <lastmod>2024-01-18T17:42:37+00:00</lastmod>
+  <priority>0.80</priority>
 </url>
 
 
